@@ -98,6 +98,7 @@ construct_configure_options() {
     --enable-calendar \
     --enable-dba \
     --enable-exif \
+    --enable-ffi \
     --enable-fpm \
     --enable-ftp \
     --enable-gd \
