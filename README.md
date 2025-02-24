@@ -6,7 +6,7 @@
 
 ```shell
 # override default plugin
-mise plugin install php https://github.com/pakutoma/vfox-php-ffi
+mise plugin install --force php https://github.com/pakutoma/vfox-php-ffi
 ```
 
 ## Prerequirements

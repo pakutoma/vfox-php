@@ -98,7 +98,6 @@ construct_configure_options() {
     --enable-calendar \
     --enable-dba \
     --enable-exif \
-    --enable-ffi \
     --enable-fpm \
     --enable-ftp \
     --enable-gd \
@@ -121,6 +120,7 @@ construct_configure_options() {
     --with-config-file-scan-dir=$install_path/conf.d \
     --with-curl \
     --with-external-gd \
+    --with-ffi \
     --with-fpm-group=www-data \
     --with-fpm-user=www-data \
     --with-gd \
