@@ -5,13 +5,8 @@
 ## Usage
 
 ```shell
-# install plugin
-vfox add php
-
-# install an available version
-vfox search php
-# or specific version
-vfox install php@8.3.3
+# override default plugin
+mise plugin install php https://github.com/pakutoma/vfox-php
 ```
 
 ## Prerequirements
