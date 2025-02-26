@@ -97,6 +97,7 @@ construct_configure_options() {
     --enable-bcmath \
     --enable-calendar \
     --enable-dba \
+    --enable-debug \
     --enable-exif \
     --enable-fpm \
     --enable-ftp \
