@@ -115,6 +115,7 @@ construct_configure_options() {
     --enable-sysvshm \
     --enable-wddx \
     --enable-zip \
+    --enable-zts \
     --sysconfdir=$install_path \
     --with-config-file-path=$install_path \
     --with-config-file-scan-dir=$install_path/conf.d \
