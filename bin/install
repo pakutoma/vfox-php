@@ -107,6 +107,7 @@ construct_configure_options() {
     --enable-mbregex \
     --enable-mbstring \
     --enable-mysqlnd \
+    --enable-opcache \
     --enable-pcntl \
     --enable-shmop \
     --enable-soap \
